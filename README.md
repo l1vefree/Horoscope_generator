@@ -1,7 +1,7 @@
 # Horoscope Generator
 > Generate a random horoscope everytime the user runs the program.
 
-![Image of horoscopes](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.horoscope.com%2Fhoroscope-dates%2F&psig=AOvVaw0gJRNDRKpUMJStkxxup6l6&ust=1606528746665000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj4iI3Qoe0CFQAAAAAdAAAAABAJ)
+![Image of horoscopes](https://www.horoscope.com/wp-content/uploads/sites/2/2020/04/zodiac-sign-symbols.png)
 
 ## Table of contents
 * [General info](#general-info)
